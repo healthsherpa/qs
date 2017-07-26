@@ -1,3 +1,7 @@
+# Why Ryan forked this
+
+To fix the parsing of arrays of objects. See: 664266fbaa60c97f69d66de6b66b8f8b5c037432 and the [corresponding bug](https://github.com/ljharb/qs/issues/215)
+
 # qs <sup>[![Version Badge][2]][1]</sup>
 
 [![Build Status][3]][4]
