@@ -1,3 +1,6 @@
+## **6.5.2**
+- [Fix] parse arrays of objects of depth 1
+
 ## **6.5.0**
 - [New] add `utils.assign`
 - [New] pass default encoder/decoder to custom encoder/decoder functions (#206)
